@@ -1,0 +1,16 @@
+// WebApplication
+
+-- Aktuell nur vom 4. bis zum 17. jeden Monat. - Rest wird nicht angezeigt. 
+-- Team Bilder einfügen. Später bei der Section "Team" alle Abbilden können. (Vielleicht Live aus Webseite holen).
+-- Dienstplan exportieren funktion im PDF Format!
+-- Optivio Icon - Orignales verwenden. 
+
+-- Putzfrauen (Ausgenommen Daniela) gleiche Farben verteilung. 
+-- Feste Zuteilung (Marlies immer Dienstags).
+
+-- Zeitplan Section überlegen was hinkommen können. Aktuell keine vorschläge.
+-- Einstellungen ändern (Black / White Mode), nach Anmelde Funktion Profil bearbeiten können (Profilbild), welches sich dann für die gesammte WebPage ändert.
+
+// Datenbanken
+
+-- FireBase einrichten.
